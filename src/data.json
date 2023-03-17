@@ -1,0 +1,68 @@
+{
+    "pizzas": [
+    {
+        "id": 1,
+        "nom": "Pizza Margherita",
+        "image": "https://th.bing.com/th/id/OIP.g3CcBWm2kDa5MVhu5eE5oQHaHd?pid=ImgDet&rs=1",
+        "prix": 10.99,
+        "ingredients": [
+            "Pâte à pizza",
+            "Sauce tomate",
+            "Mozzarella",
+            "Basilic"
+        ]
+    },
+    {
+        "id": 2,
+        "nom": "Pizza Pepperoni",
+        "image": "https://th.bing.com/th/id/OIP.QhNNffO4IkK9ypU1E-b1jgHaHz?pid=ImgDet&rs=1",
+        "prix": 12.99,
+        "ingredients": [
+            "Pâte à pizza",
+            "Sauce tomate",
+            "Fromage",
+            "Pepperoni"
+        ]
+    },
+    {
+        "id": 3,
+        "nom": "Pizza Végétarienne",
+        "image": "https://bestmargheritapizza.com/wp-content/uploads/2017/12/veggie-pizza-2.png",
+        "prix": 11.99,
+        "ingredients": [
+        "Pâte à pizza",
+        "Sauce tomate",
+        "Fromage",
+        "Poivrons",
+        "Oignons",
+        "Champignons"
+        ]
+    },
+    {
+        "id": 4,
+        "nom": "Pizza Quatre Fromages",
+        "image": "https://th.bing.com/th/id/OIP.OjqCogFOS0MiF_ijuRimPgHaHj?pid=ImgDet&rs=1",
+        "prix": 13.99,
+        "ingredients": [
+            "Pâte à pizza",
+            "Fromage à pâte molle",
+            "Fromage de chèvre",
+            "Fromage bleu",
+            "Mozzarella"
+        ]
+    },
+    {
+        "id": 5,
+        "nom": "Pizza Hawaïenne",
+        "image": "https://th.bing.com/th/id/OIP.bCcMXoI7zEFAjEIhd-FYYAHaG1?pid=ImgDet&rs=1",
+        "prix": 12.99,
+        "ingredients": [
+            "Pâte à pizza",
+            "Sauce tomate",
+            "Fromage",
+            "Jambon",
+            "Ananas"
+        ] 
+    } 
+    ] 
+}
